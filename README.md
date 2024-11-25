@@ -1,4 +1,4 @@
-AppliDigitalAPp  
+ApplyDigital
 ===========  
 
 # Description  
