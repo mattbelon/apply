@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplyDigital</string>
+    <string name="delete">Delete</string>
+    <string name="deleted_item">Item deleted</string>
+    <string name="no_internet">Check your internet connection</string>
+    <string name="server_error">Server error</string>
+    <string name="parse_error">Try again later</string>
+
+</resources>
