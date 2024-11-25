@@ -10,8 +10,8 @@ You can view pages in a webview
 
 # Screenshots  
 <kbd>  
-  <img src="images/list.jpg" alt="list screenshot" width="25%">  
-  <img src="images/webview.jpg" alt="webview screenshot" width="25%">  
+  <img src="images/list.png" alt="list screenshot" width="25%">  
+  <img src="images/webview.png" alt="webview screenshot" width="25%">  
 </kbd>  
 
 # Architecture  
